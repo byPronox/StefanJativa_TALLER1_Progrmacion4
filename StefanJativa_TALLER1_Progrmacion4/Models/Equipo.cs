@@ -4,6 +4,7 @@ namespace StefanJativa_TALLER1_Progrmacion4.Models
 {
     public class Equipo
     {
+        //h
         [Key]
         public int Id { get; set; }
         [Required]
